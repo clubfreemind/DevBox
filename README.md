@@ -5,7 +5,7 @@ centos based kvm instance for an easy cloud deployment.
 # Installation
 ## Debian / Ubuntu
 1- sudo apt-get install qemu-kvm libvirt-bin\
-2- git clone https://github.com/squuall123/DevBox.git\
+2- git clone https://github.com/squuall123/DevBox.git \
 3- run ./DevBox.sh
 
 # Usage
